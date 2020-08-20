@@ -17,7 +17,8 @@ En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia
  * Desarrollar un sistema para el transporte de mercancia que permita agilizar y optimizar el transporte de mercancias, en el eje central del pais 
 
 ## Objetivos Especificos
-
+ * Diseñar las interfaces del sistema para su posterior programación.
+ * Diseñar una base de datos adecuada para el sistema que cumpla con los requisitos.
 
 ## Sistema Operativo
 
@@ -29,6 +30,7 @@ En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia
 
 ## Bibliografia
 
-CHICOS PODEMOS COLOCAR ANTECEDENTES O IMAGENES O PAGINAS WEB REFERENCIADO AL TEMA SI LO CONSIGUE PARA PODER COLOCAR BIBLIOGRAFIA
+`<link>` : https://www.ontruck.com/es/
+`<link>` : https://masquestartups.com/2017/07/05/javier-escribano-ontruck-t1e25/
 
  

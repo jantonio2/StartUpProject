@@ -14,7 +14,7 @@ Por lo cual el presente proyecto esta orientado a las empresas que tiene mercanc
 En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia, pero que cuentan con un capital ajustado, para empeorar eso, en la actualidad se vive la crisis producida por el COVID-19 que no permite a estas microempresas poder realizar ventas como antes y al contar con poco capital no es algo factible que puedan comprar algún vehículo de transporte para sus mercancias.
 
 ## Objetivo General
-
+ * Desarrollar un sistema para el transporte de mercancia que permita agilizar y optimizar el transporte de mercancias, en el eje central del pais 
 
 ## Objetivos Especificos
 

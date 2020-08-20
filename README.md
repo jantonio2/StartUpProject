@@ -11,7 +11,7 @@ En la década de los ochenta las empresas empezaron a surgir en el país de Boli
 Por lo cual el presente proyecto esta orientado a las empresas que tiene mercancía o productos que necesitan transporte dentro de Bolivia en donde la iniciativa se trabajara dentro del eje troncas que son La Paz, Cochabamba y Santa Cruz por lo cual se construirá una plataforma en la cual los transportistas coloquen su estado como disponible, con mercancía o indispuesto además de tener una sección donde el encargado de llevar el producto informe el estado de la mercancía y responda las preguntas como: ¿Cuánto tiempo tarda al llegar a su destino?, ¿Cómo se encuentra el estado del producto?, ¿Como se encuentra el estado de la mercancía? y otras funciones como tal.
 
 ## Identificacion del Problema
-
+En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia, pero que cuentan con un capital ajustado, para empeorar eso, en la actualidad se vive la crisis producida por el COVID-19 que no permite a estas microempresas poder realizar ventas como antes y al contar con poco capital no es algo factible que puedan comprar algún vehículo de transporte para sus mercancias.
 
 ## Objetivo General
 
@@ -21,14 +21,14 @@ Por lo cual el presente proyecto esta orientado a las empresas que tiene mercanc
 
 ## Sistema Operativo
 
- * En la parte del Sistema Operativo se trabajara en Android
+ * El Sistema Operativo que se trabajará es Android.
 
 ## Frameworks
 
- * En la parte del Framework se trabajara en Flutter
+ * El Framework a usar será Flutter.
 
 ## Bibliografia
 
-CHICOS PODEMOS COLOCAR ANTESEDENTES O IMAGENES O PAGINAS WEB REFERENCIADO AL TEMA SI LO CONSIGUE PARA PODER COLOCAR BIBLIOGRAFIA
+CHICOS PODEMOS COLOCAR ANTECEDENTES O IMAGENES O PAGINAS WEB REFERENCIADO AL TEMA SI LO CONSIGUE PARA PODER COLOCAR BIBLIOGRAFIA
 
  

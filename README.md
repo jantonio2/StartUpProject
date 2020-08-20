@@ -11,7 +11,7 @@ En la década de los ochenta las empresas empezaron a surgir en el país de Boli
 Por lo cual el presente proyecto esta orientado a las empresas que tiene mercancía o productos que necesitan transporte dentro de Bolivia en donde la iniciativa se trabajara dentro del eje troncas que son La Paz, Cochabamba y Santa Cruz por lo cual se construirá una plataforma en la cual los transportistas coloquen su estado como disponible, con mercancía o indispuesto además de tener una sección donde el encargado de llevar el producto informe el estado de la mercancía y responda las preguntas como: ¿Cuánto tiempo tarda al llegar a su destino?, ¿Cómo se encuentra el estado del producto?, ¿Como se encuentra el estado de la mercancía? y otras funciones como tal.
 
 ## Identificacion del Problema
-En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia, pero que cuentan con un capital ajustado, para empeorar eso, en la actualidad se vive la crisis producida por el COVID-19 que no permite a estas microempresas poder realizar ventas como antes y al contar con poco capital no es algo factible que puedan comprar algún vehículo de transporte para sus mercancias.
+En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia, pero que cuentan con un capital ajustado, para empeorar eso, en la actualidad se vive la crisis producida por el COVID-19 que no permite a estas microempresas poder realizar ventas como antes y al contar con poco capital no es algo factible que puedan comprar algún vehículo de transporte para sus mercancias es por eso que contratan a empresas de transporte pesado o transportistas independiestes para poder mover sus productos.
 
 ## Objetivo General
  * Desarrollar un sistema para el transporte de mercancia que permita agilizar y optimizar el transporte de mercancias, en el eje central del pais 
@@ -28,7 +28,7 @@ En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia
 
  * El Framework a usar será Flutter.
 
-## Bibliografia
+## Referencias
 
 `<link>` : https://www.ontruck.com/es/
 `<link>` : https://masquestartups.com/2017/07/05/javier-escribano-ontruck-t1e25/

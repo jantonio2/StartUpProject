@@ -31,6 +31,7 @@ En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia
 ## Referencias
 
 `<link>` : https://www.ontruck.com/es/
+
 `<link>` : https://masquestartups.com/2017/07/05/javier-escribano-ontruck-t1e25/
 
  

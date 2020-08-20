@@ -22,7 +22,7 @@ En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia
 
 ## Sistema Operativo
 
- * El Sistema Operativo que se trabajará es Android.
+ * El Sistema Operativo en el que se trabajará es Android.
 
 ## Frameworks
 

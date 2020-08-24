@@ -11,7 +11,7 @@
 * Rocha Vedia Jesus Carlos Antonio
 
 
-## Introduccion
+## Introducción
 
 En la década de los ochenta las empresas empezaron a surgir en el país de Bolivia y así crecer año tras año a través de sus productos o servicios hasta la actualidad en donde uno de los problemas consistía en el transporte de sus productos o mercancías en donde cada 1 de 10 productos transportados sufría daños significativos o perdidas necesariamente riesgosas. Y por parte de las empresas de transporte no siempre eran conocido por las empresas por lo cual no eran conocidos o no tenían los medios necesarios para realizar trabajos con las empresas. 
 
@@ -21,7 +21,7 @@ Por lo cual el presente proyecto esta orientado a las empresas que tiene mercanc
 En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia, pero que cuentan con un capital ajustado, para empeorar eso, en la actualidad se vive la crisis producida por el COVID-19 que no permite a estas microempresas poder realizar ventas como antes y al contar con poco capital no es algo factible que puedan comprar algún vehículo de transporte para sus mercancias es por eso que contratan a empresas de transporte pesado o transportistas independiestes para poder mover sus productos.
 
 ## Objetivo General
- * Desarrollar un sistema para el transporte de mercancia que permita agilizar y optimizar el transporte de mercancias, en el eje central del pais 
+ * Desarrollar un sistema para el transporte de mercancia que permita agilizar y optimizar el transporte de mercancias para las micro empresas, en el eje central del pais. 
 
 ## Objetivos Especificos
  * Diseñar las interfaces del sistema para su posterior programación.

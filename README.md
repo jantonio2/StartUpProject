@@ -4,6 +4,13 @@
 
 # TransVELOZ
 
+## Integrantes
+* Alejo Gutierrez Jorge Luis
+* Escobar Escobar Kevin Alejandro
+* Quispe Cussi Joel Alejandro
+* Rocha Vedia Jesus Carlos Antonio
+
+
 ## Introduccion
 
 En la década de los ochenta las empresas empezaron a surgir en el país de Bolivia y así crecer año tras año a través de sus productos o servicios hasta la actualidad en donde uno de los problemas consistía en el transporte de sus productos o mercancías en donde cada 1 de 10 productos transportados sufría daños significativos o perdidas necesariamente riesgosas. Y por parte de las empresas de transporte no siempre eran conocido por las empresas por lo cual no eran conocidos o no tenían los medios necesarios para realizar trabajos con las empresas. 

@@ -58,10 +58,6 @@ En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia
 ## Forma de Ganar Dinero
 La forma de ganar dinero con el presente proyecto es el de cobrar una comisión cada vez que un conductor sea contactado a través de nuestro sistema (esto estará explicado detalladamente en el contrato que se le presentará al conductor).
 
-## Sistema Operativo
-
- * El Sistema Operativo en el que se trabajará es Android.
-
 ## Elementos de la solicitud del Sistema
 ## Project Sponsor
 En la parte del Sponsor se llego a un acuerdo de patrocinar el presente proyecto momentaniamente como grupo de trabajo hasta que se logre encontrar un patrocinador que logre patrocinar en nuestro proyecto.
@@ -97,6 +93,10 @@ Se contará con ganacias por cada servicio de transporte obtenido, debido a prev
  * Proyect Managment: Escobar Escobar Kevin Alejandro
  * Senior Managment: Rocha Vedia Jesus Carlos Antonio
  * Users: Micro empresas, servicios de transporte, transportistas independientes y personas en busca de vehículos de transporte pesados.
+
+## Sistema Operativo
+
+ * El Sistema Operativo en el que se trabajará es Android.
 
 ## Frameworks
 

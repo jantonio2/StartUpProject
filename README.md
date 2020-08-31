@@ -12,7 +12,7 @@
 
 
 ## Introducción
-El trasnporte de mercancía para empresas ya sean grandes, medianas o pequeñas representa la supervivencia de esta, es importante el movimiento de sus recursos, ya sea en el pedido de sus sucursales, abastecimiento de sus almacénes o trasnporte para abastecer otras distribuidoras. Cada año en Bolivia nacen 102 empresas ([referencia](https://correodelsur.com/economia/20180629_bolivia-al-dia-nacen-102-empresas-y-se-cierran-25.html#:~:text=El%20Viceministro%20de%20Tesoro%20y,de%20ellos%20orientados%20al%20comercio.)). Estos datos reflejan la cantidad de empresas pequeñas que existen en el país, muchas de estas necesitan transportar sus recursos ya sea en el mismo departamento o dentro del país para lo cual necesitan un medio de trasnporte.
+El transporte de mercancía para empresas ya sean grandes, medianas o pequeñas representa la supervivencia de esta, es importante el movimiento de sus recursos, ya sea en el pedido de sus sucursales, abastecimiento de sus almacenes o transporte para abastecer otras distribuidoras. Cada año en Bolivia nacen 102 empresas ([referencia](https://correodelsur.com/economia/20180629_bolivia-al-dia-nacen-102-empresas-y-se-cierran-25.html#:~:text=El%20Viceministro%20de%20Tesoro%20y,de%20ellos%20orientados%20al%20comercio.)). Estos datos reflejan la cantidad de empresas pequeñas que existen en el país, muchas de estas necesitan transportar sus recursos ya sea en el mismo departamento o dentro del país para lo cual necesitan un medio de trasnporte.
 ![alt text](http://2.bp.blogspot.com/-Ba21ZKTdwDE/VNkeZOsug8I/AAAAAAAAAKQ/MuKO3gERz0A/s1600/Fotolia_47250800_M.jpg)
 
 ## Identificacion del Problema
@@ -30,9 +30,11 @@ En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia
  
 ## Límites
  * Los vehículos de transporte solo servirán para transportar cosas dentro de las mismas ciudades, no de ciudad a ciudad.
- * Solo se agregarán a transportista bajo cierto seguimiento y firma de contrato, velando por la seguridad de los clientes.
+ * Solo se agregarán a transportistas bajo cierto seguimiento y firma de contrato, velando por la seguridad de los clientes.
  * No se hará un seguimiento en tiempo real del medio de transporte.
  * El sistema no se encargará de mostrar la ruta que debe seguir al conductor encargado.
+ * El sistema no contará con un chat de interacción entre conductor-cliente, solo se brindará el teléfono móvil para contacto.
+ * El sistema solo mostrará el estado del transporte (sin empezar, transportado, entregado).
 
 ## Forma de Ganar Dinero
 La forma de ganar dinero con el presente proyecto es el de cobrar una comisión cada vez que un conductor sea contactado a través de nuestrp sistema (esto estará explicado detalladamente en el contrato que se le presentará al conductor).

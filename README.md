@@ -5,10 +5,10 @@
 # TransVELOZ
 
 ## Integrantes
-- Alejo Gutierrez Jorge Luis (jorge.luis.alejo.gutierrez@gmail.com)
-- Escobar Escobar Kevin Alejandro (escobarkev@gmail.com)
-- Quispe Cussi Joel Alejandro (joel.alejandro.quispe.cussi@gmail.com)
-- Rocha Vedia Jesus Carlos Antonio (jesusrochavedia@gmail.com)
+- Alejo Gutierrez Jorge Luis - jorge.luis.alejo.gutierrez@gmail.com - https://github.com/jorgeluisAG
+- Escobar Escobar Kevin Alejandro - escobarkev@gmail.com - https://github.com/KevinEs14
+- Quispe Cussi Joel Alejandro - joel.alejandro.quispe.cussi@gmail.com - https://github.com/joelalex10
+- Rocha Vedia Jesus Carlos Antonio - jesusrochavedia@gmail.com - https://github.com/jantonio2
 
 
 ## Introducción

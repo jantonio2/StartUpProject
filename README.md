@@ -69,10 +69,12 @@ Se contará con ganacias por cada servicio de transporte obtenido, debido a prev
  * Familiarity with technology: Flutter
 
 ## Factibilidad Económica
-
+ * Development Cost: Se estima un costo de Bs 
 
 ## Factibilidad Organizacional
-
+ * Proyect Champions:
+ * Proyect Managment: 
+ * Users: Micro empresas, servicios de transporte, transportistas independientes y personas en busca de vehículos de transporte pesados.
 
 ## Frameworks
 

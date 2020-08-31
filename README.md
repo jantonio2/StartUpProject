@@ -74,8 +74,8 @@ Se contará con ganacias por cada servicio de transporte obtenido, debido a prev
  * Development Cost: Todavia no se tiene un costo estimado. 
 
 ## Factibilidad Organizacional
- * Proyect Managment:
- * Senior Managment: 
+ * Proyect Managment: Escobar Escobar Kevin Alejandro
+ * Senior Managment: Rocha Vedia Jesus Carlos Antonio
  * Users: Micro empresas, servicios de transporte, transportistas independientes y personas en busca de vehículos de transporte pesados.
 
 ## Frameworks

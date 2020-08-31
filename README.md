@@ -44,6 +44,7 @@ La forma de ganar dinero con el presente proyecto es el de cobrar una comisión 
 
  * El Sistema Operativo en el que se trabajará es Android.
 
+## Elementos de la solicitud del Sistema
 ## Project Sponsor
 - Alejo Gutierrez Jorge Luis - jorge.luis.alejo.gutierrez@gmail.com - https://github.com/jorgeluisAG
 - Escobar Escobar Kevin Alejandro - escobarkev@gmail.com - https://github.com/KevinEs14
@@ -60,6 +61,16 @@ Se tiene la necesidad de parte de las micro empresas, de transportar mercadería
 Se contará con ganacias por cada servicio de transporte obtenido, debido a previo contrato firmado con los servicios de transporte y conductores independientes.
 
 ## Special issues
+
+
+## Análisis de factibilidad
+## Factibilidad técnica
+
+
+## Factibilidad Económica
+
+
+## Factibilidad Organizacional
 
 
 ## Frameworks

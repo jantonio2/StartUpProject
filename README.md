@@ -13,6 +13,10 @@
 
 ## Introducción
 El transporte de mercancía para empresas ya sean grandes, medianas o pequeñas representa la supervivencia de esta, es importante el movimiento de sus recursos, ya sea en el pedido de sus sucursales, abastecimiento de sus almacenes o transporte para abastecer otras distribuidoras. Cada año en Bolivia nacen 102 empresas ([referencia](https://correodelsur.com/economia/20180629_bolivia-al-dia-nacen-102-empresas-y-se-cierran-25.html#:~:text=El%20Viceministro%20de%20Tesoro%20y,de%20ellos%20orientados%20al%20comercio.)). Estos datos reflejan la cantidad de empresas pequeñas que existen en el país, muchas de estas necesitan transportar sus recursos ya sea en el mismo departamento o dentro del país para lo cual necesitan un medio de trasnporte.
+<p align="center">
+    <img src="http://2.bp.blogspot.com/-Ba21ZKTdwDE/VNkeZOsug8I/AAAAAAAAAKQ/MuKO3gERz0A/s1600/Fotolia_47250800_M.jpg" width="100" align="center" margintop ="10">
+
+</p>
 ![alt text](http://2.bp.blogspot.com/-Ba21ZKTdwDE/VNkeZOsug8I/AAAAAAAAAKQ/MuKO3gERz0A/s1600/Fotolia_47250800_M.jpg)
 De igual manera no solo las empresas suelen requerir de servicios de transporte, también la llegan a requerir personas en su día a día, como ser para el transporte de muebles en alguna mudanza o en la compra de estos.
 

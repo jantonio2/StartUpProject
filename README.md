@@ -13,7 +13,7 @@
 
 ## Introducción
 El trasnporte de mercancía para empresas ya sean grandes, medianas o pequeñas representa la supervivencia de esta, es importante el movimiento de sus recursos, ya sea en el pedido de sus sucursales, abastecimiento de sus almacénes o trasnporte para abastecer otras distribuidoras. Cada año en Bolivia nacen 102 empresas ([referencia](https://correodelsur.com/economia/20180629_bolivia-al-dia-nacen-102-empresas-y-se-cierran-25.html#:~:text=El%20Viceministro%20de%20Tesoro%20y,de%20ellos%20orientados%20al%20comercio.)). Estos datos reflejan la cantidad de empresas pequeñas que existen en el país, muchas de estas necesitan transportar sus recursos ya sea en el mismo departamento o dentro del país para lo cual necesitan un medio de trasnporte.
-![alt text](![alt text](https://www.proun.es/wp-content/uploads/fly-images/9041/s07-2136x0.jpg))
+![alt text](https://www.google.com/url?sa=i&url=http%3A%2F%2Flaclasedeoscarboluda.blogspot.com%2F2015%2F02%2Flos-costes-y-el-calculo-del-transporte.html&psig=AOvVaw1jFzMj_iP9hUGpKdvNFp4R&ust=1598994085603000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNig6_utxusCFQAAAAAdAAAAABAD)
 
 ## Identificacion del Problema
 En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia, pero que cuentan con un capital ajustado, para empeorar eso, en la actualidad se vive la crisis producida por el COVID-19 que no permite a estas microempresas poder realizar ventas como antes y al contar con poco capital no es algo factible que puedan comprar algún vehículo de transporte para sus mercancias es por eso que contratan a empresas de transporte pesado o transportistas independiestes para poder mover sus productos.

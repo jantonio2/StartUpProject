@@ -20,11 +20,13 @@ En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia
 ![alt text](https://blogs.iadb.org/transporte/wp-content/uploads/sites/9/2020/04/macau-photo-agency-NhhhRZQxnFY-unsplash-630x420.jpg)
 
 ## Objetivo General
- * Desarrollar un sistema para el transporte de mercancia que permita agilizar y optimizar el transporte de mercancias para las micro empresas, en el eje central del pais. 
+ * Desarrollar un sistema que centralice los datos de empresas de transporte y choferes independientes para el contacto con empresas que requieran el transporte de su mercancía.
 
 ## Objetivos Especificos
  * Diseñar las interfaces del sistema para su posterior programación.
  * Diseñar una base de datos adecuada para el sistema que cumpla con los requisitos.
+ * Categorizar la información para la búsqueda por filtros.
+ * Registrar las empresas y choferes independientes con los datos necesarios para el usuario.
 
 ## Sistema Operativo
 

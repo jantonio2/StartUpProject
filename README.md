@@ -27,6 +27,15 @@ En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia
  * Diseñar una base de datos adecuada para el sistema que cumpla con los requisitos.
  * Categorizar la información para la búsqueda por filtros.
  * Registrar las empresas y choferes independientes con los datos necesarios para el usuario.
+ 
+## Límites
+ * Los vehículos de transporte solo servirán para transportar cosas dentro de las mismas ciudades, no de ciudad a ciudad.
+ * Solo se agregarán a transportista bajo cierto seguimiento y firma de contrato, velando por la seguridad de los clientes.
+ * No se hará un seguimiento en tiempo real del medio de transporte.
+ * El sistema no se encargará de mostrar la ruta que debe seguir al conductor encargado.
+
+## Forma de Ganar Dinero
+La forma de ganar dinero con el presente proyecto es el de cobrar una comisión cada vez que un conductor sea contactado a través de nuestrp sistema (esto estará explicado detalladamente en el contrato que se le presentará al conductor).
 
 ## Sistema Operativo
 

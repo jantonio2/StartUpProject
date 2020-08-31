@@ -44,6 +44,17 @@ La forma de ganar dinero con el presente proyecto es el de cobrar una comisión 
 
  * El Sistema Operativo en el que se trabajará es Android.
 
+## Project Sponsor
+- Alejo Gutierrez Jorge Luis - jorge.luis.alejo.gutierrez@gmail.com - https://github.com/jorgeluisAG
+- Escobar Escobar Kevin Alejandro - escobarkev@gmail.com - https://github.com/KevinEs14
+- Quispe Cussi Joel Alejandro - joel.alejandro.quispe.cussi@gmail.com - https://github.com/joelalex10
+- Rocha Vedia Jesus Carlos Antonio - jesusrochavedia@gmail.com - https://github.com/jantonio2
+
+## Business need
+Se tiene la necesidad de parte de las micro empresas, de transportar mercadería a diferentes puntos, sin contar con el capital suficiente para  adquirir vehículos de transporte.
+
+
+
 ## Frameworks
 
  * El Framework a usar será Flutter.

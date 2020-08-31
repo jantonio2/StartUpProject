@@ -65,7 +65,8 @@ Se contará con ganacias por cada servicio de transporte obtenido, debido a prev
 
 ## Análisis de factibilidad
 ## Factibilidad técnica
-
+ * Proyect size: Mediano
+ * Familiarity with technology: Flutter
 
 ## Factibilidad Económica
 

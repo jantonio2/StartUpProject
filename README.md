@@ -61,7 +61,9 @@ Aplicación móvil que permita el contacto entre conductores transportistas y mi
 Se contará con ganacias por cada servicio de transporte obtenido, debido a previo contrato firmado con los servicios de transporte y conductores independientes.
 
 ## Special issues
-
+ * Poca ganancia en el principio del proyecto debido a la falta de propaganda
+ * Falta de un chat de comunicación entre los conductores y los clientes que desean contratarlos.
+ * Falta de monitoreo del transporte en tiempo real debido a la falta de GPS.
 
 ## Análisis de factibilidad
 ## Factibilidad técnica
@@ -69,11 +71,11 @@ Se contará con ganacias por cada servicio de transporte obtenido, debido a prev
  * Familiarity with technology: Flutter
 
 ## Factibilidad Económica
- * Development Cost: Se estima un costo de Bs 
+ * Development Cost: Todavia no se tiene un costo estimado. 
 
 ## Factibilidad Organizacional
- * Proyect Champions:
- * Proyect Managment: 
+ * Proyect Managment:
+ * Senior Managment: 
  * Users: Micro empresas, servicios de transporte, transportistas independientes y personas en busca de vehículos de transporte pesados.
 
 ## Frameworks

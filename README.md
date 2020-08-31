@@ -55,7 +55,7 @@ La forma de ganar dinero con el presente proyecto es el de cobrar una comisión 
 Se tiene la necesidad de parte de las micro empresas, de transportar mercadería a diferentes puntos, sin contar con el capital suficiente para  adquirir vehículos de transporte.
 
 ## Business requirements
-
+Aplicación móvil que permita el contacto entre conductores transportistas y micro empresas o personas que requieran de un vehículo pesado para transportar objetos pesados.
 
 ## Business value
 Se contará con ganacias por cada servicio de transporte obtenido, debido a previo contrato firmado con los servicios de transporte y conductores independientes.

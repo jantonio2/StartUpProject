@@ -5,11 +5,22 @@
 # TransVELOZ
 
 ## Integrantes
-- Alejo Gutierrez Jorge Luis - jorge.luis.alejo.gutierrez@gmail.com - https://github.com/jorgeluisAG
-- Escobar Escobar Kevin Alejandro - escobarkev@gmail.com - https://github.com/KevinEs14
-- Quispe Cussi Joel Alejandro - joel.alejandro.quispe.cussi@gmail.com - https://github.com/joelalex10
-- Rocha Vedia Jesus Carlos Antonio - jesusrochavedia@gmail.com - https://github.com/jantonio2
 
+**Nombre:** Alejo Gutierrez Jorge Luis
+**Email:**  jorge.luis.alejo.gutierrez@gmail.com
+**Github:** https://github.com/jorgeluisAG
+
+**Nombre:** Escobar Escobar Kevin Alejandro
+**Email:**  escobarkev@gmail.com
+**Github:** https://github.com/KevinEs14
+
+**Nombre:** Quispe Cussi Joel Alejandro
+**Email:**  joel.alejandro.quispe.cussi@gmail.com
+**Github:** https://github.com/joelalex10
+
+**Nombre:** Rocha Vedia Jesus Carlos Antonio
+**Email:**  jesusrochavedia@gmail.com
+**Github:** https://github.com/jantonio2
 
 ## Introducción
 El transporte de mercancía para empresas ya sean grandes, medianas o pequeñas representa la supervivencia de esta, es importante el movimiento de sus recursos, ya sea en el pedido de sus sucursales, abastecimiento de sus almacenes o transporte para abastecer otras distribuidoras. Cada año en Bolivia nacen 102 empresas ([referencia](https://correodelsur.com/economia/20180629_bolivia-al-dia-nacen-102-empresas-y-se-cierran-25.html#:~:text=El%20Viceministro%20de%20Tesoro%20y,de%20ellos%20orientados%20al%20comercio.)). Estos datos reflejan la cantidad de empresas pequeñas que existen en el país, muchas de estas necesitan transportar sus recursos ya sea en el mismo departamento o dentro del país para lo cual necesitan un medio de trasnporte.
@@ -53,10 +64,12 @@ La forma de ganar dinero con el presente proyecto es el de cobrar una comisión 
 
 ## Elementos de la solicitud del Sistema
 ## Project Sponsor
-- Alejo Gutierrez Jorge Luis - jorge.luis.alejo.gutierrez@gmail.com - https://github.com/jorgeluisAG
-- Escobar Escobar Kevin Alejandro - escobarkev@gmail.com - https://github.com/KevinEs14
-- Quispe Cussi Joel Alejandro - joel.alejandro.quispe.cussi@gmail.com - https://github.com/joelalex10
-- Rocha Vedia Jesus Carlos Antonio - jesusrochavedia@gmail.com - https://github.com/jantonio2
+En la parte del Sponsor se llego a un acuerdo de patrocinar el presente proyecto momentaniamente como grupo de trabajo hasta que se logre encontrar un patrocinador que logre patrocinar en nuestro proyecto.
+
+- Alejo Gutierrez Jorge Luis
+- Escobar Escobar Kevin Alejandro
+- Quispe Cussi Joel Alejandro
+- Rocha Vedia Jesus Carlos Antonio
 
 ## Business need
 Se tiene la necesidad de parte de las micro empresas, de transportar mercadería a diferentes puntos, sin contar con el capital suficiente para  adquirir vehículos de transporte.

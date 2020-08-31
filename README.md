@@ -16,7 +16,8 @@ El trasnporte de mercancía para empresas ya sean grandes, medianas o pequeñas 
 ![alt text](http://2.bp.blogspot.com/-Ba21ZKTdwDE/VNkeZOsug8I/AAAAAAAAAKQ/MuKO3gERz0A/s1600/Fotolia_47250800_M.jpg)
 
 ## Identificacion del Problema
-En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia, pero que cuentan con un capital ajustado, para empeorar eso, en la actualidad se vive la crisis producida por el COVID-19 que no permite a estas microempresas poder realizar ventas como antes y al contar con poco capital no es algo factible que puedan comprar algún vehículo de transporte para sus mercancias es por eso que contratan a empresas de transporte pesado o transportistas independiestes para poder mover sus productos.
+En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia, pero que cuentan con un capital ajustado, para empeorar eso, se vive la crisis producida por el COVID-19 que no permite a estas microempresas poder realizar ventas como antes y al contar con poco capital no es algo factible que puedan comprar algún vehículo de transporte para sus mercancias es por eso que contratan a empresas de transporte pesado o transportistas independiestes para poder mover sus productos.
+![alt text](https://blogs.iadb.org/transporte/wp-content/uploads/sites/9/2020/04/macau-photo-agency-NhhhRZQxnFY-unsplash-630x420.jpg)
 
 ## Objetivo General
  * Desarrollar un sistema para el transporte de mercancia que permita agilizar y optimizar el transporte de mercancias para las micro empresas, en el eje central del pais. 

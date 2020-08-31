@@ -1,14 +1,14 @@
-# Proyecto de Startups
+# **Proyecto de Startups**
 
 # Sistema de Informacion para el Transporte de Mercancia
 
 # TransVELOZ
 
 ## Integrantes
-* Alejo Gutierrez Jorge Luis
-* Escobar Escobar Kevin Alejandro
-* Quispe Cussi Joel Alejandro
-* Rocha Vedia Jesus Carlos Antonio
+- Alejo Gutierrez Jorge Luis (jorge.luis.alejo.gutierrez@gmail.com)
+- Escobar Escobar Kevin Alejandro (escobarkev@gmail.com)
+- Quispe Cussi Joel Alejandro (joel.alejandro.quispe.cussi@gmail.com)
+- Rocha Vedia Jesus Carlos Antonio (jesusrochavedia@gmail.com)
 
 
 ## Introducción

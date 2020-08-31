@@ -1,6 +1,6 @@
 # **Proyecto de Startups**
 
-# Sistema de Informacion para el Transporte de Mercancia
+# Sistema de Información para el Transporte de Mercancía
 
 # TransVELOZ
 
@@ -23,7 +23,7 @@
 **Github:** https://github.com/jantonio2
 
 ## Introducción
-El transporte de mercancía para empresas ya sean grandes, medianas o pequeñas representa la supervivencia de esta, es importante el movimiento de sus recursos, ya sea en el pedido de sus sucursales, abastecimiento de sus almacenes o transporte para abastecer otras distribuidoras. Cada año en Bolivia nacen 102 empresas ([referencia](https://correodelsur.com/economia/20180629_bolivia-al-dia-nacen-102-empresas-y-se-cierran-25.html#:~:text=El%20Viceministro%20de%20Tesoro%20y,de%20ellos%20orientados%20al%20comercio.)). Estos datos reflejan la cantidad de empresas pequeñas que existen en el país, muchas de estas necesitan transportar sus recursos ya sea en el mismo departamento o dentro del país para lo cual necesitan un medio de trasnporte.
+El transporte de mercancía para empresas ya sean grandes, medianas o pequeñas, a veces representa la supervivencia de esta, es importante el movimiento de sus recursos, ya sea en el pedido de sus sucursales, abastecimiento de sus almacenes o transporte para abastecer otras distribuidoras. Cada año en Bolivia nacen 102 empresas ([referencia](https://correodelsur.com/economia/20180629_bolivia-al-dia-nacen-102-empresas-y-se-cierran-25.html#:~:text=El%20Viceministro%20de%20Tesoro%20y,de%20ellos%20orientados%20al%20comercio.)). Estos datos reflejan la cantidad de empresas pequeñas que existen en el país, muchas de estas necesitan transportar sus recursos ya sea en el mismo departamento o dentro del país para lo cual necesitan un medio de trasnporte.
 <p align="center">
     <img src="http://2.bp.blogspot.com/-Ba21ZKTdwDE/VNkeZOsug8I/AAAAAAAAAKQ/MuKO3gERz0A/s1600/Fotolia_47250800_M.jpg" width="500" align="center" margintop ="10">
 
@@ -60,7 +60,7 @@ La forma de ganar dinero con el presente proyecto es el de cobrar una comisión 
 
 ## Sistema Operativo
 
- * El Sistema Operativo en el que se trabajará es Android.
+ * El Sistema Operativo en el que se trabajará será Android.
 
 ## Elementos de la solicitud del Sistema
 ## Project Sponsor
@@ -75,7 +75,7 @@ En la parte del Sponsor se llego a un acuerdo de patrocinar el presente proyecto
 Se tiene la necesidad de parte de las micro empresas, de transportar mercadería a diferentes puntos, sin contar con el capital suficiente para  adquirir vehículos de transporte.
 
 ## Business requirements
-Aplicación móvil que permita el contacto entre conductores transportistas y micro empresas o personas que requieran de un vehículo pesado para transportar objetos pesados.
+Aplicación móvil que permita el contacto entre servicios de transporte o transportistas individuales y micro empresas o personas que requieran de un vehículo grande para transportar objetos pesados o mercadería.
 
 ## Business value
 Se contará con ganacias por cada servicio de transporte obtenido, debido a previo contrato firmado con los servicios de transporte y conductores independientes.
@@ -83,7 +83,7 @@ Se contará con ganacias por cada servicio de transporte obtenido, debido a prev
 ## Special issues
  * Poca ganancia en el principio del proyecto debido a la falta de propaganda
  * Falta de un chat de comunicación entre los conductores y los clientes que desean contratarlos.
- * Falta de monitoreo del transporte en tiempo real debido a la falta de GPS.
+ * Falta de monitoreo del transporte en tiempo real debido a la falta de sistemas GPS.
 
 ## Análisis de factibilidad
 ## Factibilidad técnica

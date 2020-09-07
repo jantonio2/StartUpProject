@@ -39,13 +39,20 @@ En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia
 </p>
 
 ## Objetivo General
- * Desarrollar un sistema que centralice los datos de empresas de transporte y choferes independientes para el contacto con empresas que requieran el transporte de su mercancía o con personas que simplemente requieran transportar diferentes objetos pesados.
+ * Desarrollar un sistema móvil que centralice los datos de empresas de transporte y choferes independientes para el contacto con empresas que requieran el transporte de su mercancía o con personas que simplemente requieran transportar diferentes objetos pesados.
 
 ## Objetivos Especificos
  * Diseñar las interfaces del sistema para su posterior programación.
  * Diseñar una base de datos adecuada para el sistema que cumpla con los requisitos.
  * Categorizar la información para la búsqueda por filtros.
- * Registrar las empresas y choferes independientes con los datos necesarios para el usuario.
+ * Registrar las empresas de transporte y conductores independientes con los datos necesarios para el usuario en la base datos.
+ * Registrar a los usuarios que necesitan estos servicios.
+ * Mostrar la información básica entre conductores y usuarios.
+ * Mostrar el estado del transporte de la mercancia.
+ * Mostrar en tiempo real la disponibilidad de los vehículos a alquilar.
+ * Mostrar tarifas de transporte de  acuerdo al vehículo y la empresa.
+ * Realizar una pasarela de pagos.
+ * Mostrar historial de pagos.
  
 ## Límites
  * Los vehículos de transporte solo servirán para transportar cosas dentro de las mismas ciudades, no de ciudad a ciudad.
@@ -54,6 +61,9 @@ En la actualidad se tienen muchas micro empresas que tratan de surgir en Bolivia
  * El sistema no se encargará de mostrar la ruta que debe seguir al conductor encargado.
  * El sistema no contará con un chat de interacción entre conductor-cliente, solo se brindará el teléfono móvil para contacto.
  * El sistema solo mostrará el estado del transporte del producto (sin empezar, transportando, entregado).
+ * El sistema no se hará responsable por daños y/o pérdidas en los productos transportados.
+ * El sistema no brindará reembolsos una vez se haya hecho el pago.
+ * El sistema no emitirá una factura.
 
 ## Forma de Ganar Dinero
 La forma de ganar dinero con el presente proyecto es el de cobrar una comisión cada vez que un conductor sea contactado a través de nuestro sistema (esto estará explicado detalladamente en el contrato que se le presentará al conductor).
